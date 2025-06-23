@@ -1,0 +1,56 @@
+/* Remove global padding on all images */
+img {
+  padding: 0;
+  margin: 0;
+}
+
+/* Carousel image */
+.carousel-img {
+  height: 100%;
+  width: 70%;
+  object-fit: cover;
+  border-radius: 15px;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+.carousel-inner {
+  height: 900px;
+}
+/* Logo */
+.logo-img {
+  height: 80px;
+  width: 80px;
+}
+
+/* Category icons */
+.icon-button {
+  height: 90px;
+  width: 90px;
+  border-radius: 15px;
+}
+
+/* Card images */
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+}
+
+/* Optional footer color */
+.foot {
+  color: blue;
+}
+form .row{
+    background-color: aquamarine;
+    align-content: center;
+    justify-content: center;
+}
+.containe
+{
+  display: block;
+  flex-direction: row;
+  height: 100px;
+  width: 100px;
+
+}
+
+
